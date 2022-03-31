@@ -25,8 +25,8 @@ export default class EventHandler {
 					: event.action === "remove"
 					? `SAYONARA *@${
 							event.participants[0].split("@")[0]
-					  }* I SHALL TAKE YOUR LIFE.`
-					: `USELESS *@${
+					  }* Weakness Disgusts Me , In this world, wherever there is light-there are also shadows.`
+					: `Talk about peace *@${
 							event.participants[0].split("@")[0]
 					  }* got ${this.client.util.capitalize(event.action)}d${
 							event.actor ? ` by @${event.actor.split("@")[0]}` : ""
