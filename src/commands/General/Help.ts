@@ -44,7 +44,7 @@ export default class Command extends BaseCommand {
 				}
 			}
             let text = `
-          
+             "Wake up to reality"
             │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
             │⋊ ɴᴀᴍᴇ: ❟❛❟ *MADARA UCHIHA*
             │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
@@ -204,6 +204,7 @@ const weeb = [
 
 ]
 const txt = '\n' +
+    ' Wake up to reality \n' +
     `│⋊ ᴜꜱᴇʀ: *${M.sender.username}*\n` +
     '│⋊ ɴᴀᴍᴇ:. ❟❛❟ *MADARA UCHIHA\n' +
     '│⋊ ᴘʀᴇꜰɪx: #\n' +
