@@ -31,7 +31,7 @@ Button : To Deploy
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [ITACHI-Guides](https://github.com/NemasisDarkX/ITACHI#readme)
+    [MADARA-Guides](https://github.com/NemasisDarkX/ITACHI#readme)
 
 ## 🍥 Features of the Repo
 
