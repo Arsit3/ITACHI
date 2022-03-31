@@ -1,6 +1,6 @@
 <div align="center">
     
-<a href="https://ibb.co/pPscxYs"><img src="https://i.ibb.co/26LxyGL/4834078.jpg" alt="4834078" border="0"></a>
+<a href="https://ibb.co/pPscxYs"><img src="https://i.ibb.co/XDdzQvK/IMG-20220331-WA0158.jpg" alt="4834078" border="0"></a>
 
 # **MADARA : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
