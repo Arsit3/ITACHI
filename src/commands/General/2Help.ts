@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
 
     run = async (M: ISimplifiedMessage, parsedArgs: IParsedArgs): Promise<void> => {
             const n = [
-            './assets/ITACHI/intro.mp4'
+            './https://c.tenor.com/C651LxvAZpMAAAPo/madara-naruto.mp4'
         ]
         let rin = n[Math.floor(Math.random() * n.length)]
         if (!parsedArgs.joined) {
@@ -37,7 +37,7 @@ export default class Command extends BaseCommand {
             }
             let text = `
 │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-│⋊ ɴᴀᴍᴇ: ❟❛❟ *UCHIHA ITACHI*
+│⋊ ɴᴀᴍᴇ: ❟❛❟ *MADARA UCHIHA*
 │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
 │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
 ╰────────────┈平和                            \n\n`
@@ -53,7 +53,7 @@ export default class Command extends BaseCommand {
             caption: `${text}
  ──❅┈[ UCHIHA BOTS ]┈❅───
 ┌────────────┈❅
-│   ❟❛❟ ITACHI
+│   ❟❛❟ MADARA
 │   ©️ Synthesized Infinity Botto
 └────────────┈⁂
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
