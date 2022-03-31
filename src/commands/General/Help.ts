@@ -46,7 +46,7 @@ export default class Command extends BaseCommand {
             let text = `
           
             │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-            │⋊ ɴᴀᴍᴇ: ❟❛❟ *UCHIHA ITACHI*
+            │⋊ ɴᴀᴍᴇ: ❟❛❟ *MADARA UCHIHA*
             │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
             │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
             ╰────────────┈平和                            \n\n`
@@ -205,7 +205,7 @@ const weeb = [
 ]
 const txt = '\n' +
     `│⋊ ᴜꜱᴇʀ: *${M.sender.username}*\n` +
-    '│⋊ ɴᴀᴍᴇ:. ❟❛❟ *UCHIHA ITACHI\n' +
+    '│⋊ ɴᴀᴍᴇ:. ❟❛❟ *MADARA UCHIHA\n' +
     '│⋊ ᴘʀᴇꜰɪx: #\n' +
     '│⋊ ᴏᴡɴᴇʀ: <#mod>\n' +
     '╰────────────┈平和                            \n' +
@@ -249,7 +249,7 @@ const txt = '\n' +
     ' \n' +
     ' ──❅┈[UCHIHA BOTS ]┈❅───\n' +
     '┌────────────┈❅\n' +
-    '│   ❟❛❟ ITACHI\n'  +
+    '│   ❟❛❟ MADARA\n'  +
     '│   ©️ Synthesized Infinity Botto\n' +
     '└────────────┈⁂\n' +
     '🚀 *Note: Use #help <command_name> to view the command info*'
@@ -282,7 +282,7 @@ this.client.sendMessage(M.from,button,MessageType.listMessage)
 //             caption: `${text}
 //  ──❅┈[UCHIHA BOTS]┈❅───
 // ┌────────────┈❅
-// │   ❟❛❟ ITACHI
+// │   ❟❛❟ MADARA
 // │   ©️ Synthesized Infinity Botto
 // └────────────┈⁂
 // 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
